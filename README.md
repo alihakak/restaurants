@@ -2,7 +2,8 @@
 
 #### 1.	How long did you spend on the coding assignment? What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
 
-  - I spent about ~4-6 Overall, If I had more time, I would read users Geo data and show them the neaerst restarurant with first page load.
+  - I spent about ~6-7 hours Overall, If I had more time, I would read users Geo data and show them the neaerst restarurant with first page load.
+  - I added a shuffle array to randomly show restaurants on load but didn't really get chance to use it, the console warning is due to that.
 
 #### 2.	What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
   - React Hooks was an interesting feature I saw in React 16 , I used it in another project as below: 
